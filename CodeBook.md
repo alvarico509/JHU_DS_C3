@@ -1,4 +1,3 @@
-code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.m
 
 First of all, data has been downloaded and saved locally. After that, I have set the working directory so that I can easily access the files through a shortened path.
 I have red all the needed files and stored them as it follows:
